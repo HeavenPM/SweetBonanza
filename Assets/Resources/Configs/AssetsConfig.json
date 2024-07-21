@@ -1,0 +1,38 @@
+{
+  "sprite.bubble.0": { "Path": "Sprites/1"},
+  "sprite.bubble.1": { "Path": "Sprites/2"},
+  "sprite.bubble.2": { "Path": "Sprites/3"},
+  "sprite.bubble.3": { "Path": "Sprites/4"},
+  "sprite.bubble.4": { "Path": "Sprites/5"},
+
+  "sprite.pink": { "Path": "Sprites/skin1"},
+  "sprite.green": { "Path": "Sprites/skin2"},
+  "sprite.yellow": { "Path": "Sprites/skin3"},
+  "sprite.red": { "Path": "Sprites/skin4"},
+  "sprite.blue": { "Path": "Sprites/skin5"},
+  "sprite.mint": { "Path": "Sprites/skin6"},
+
+  "sprite.soundOn": { "Path": "Sprites/checkbox"},
+  "sprite.soundOff": { "Path": "Sprites/checkbox_off"},
+
+  "sprite.button.InUse": { "Path": "Sprites/InUseBtn"},
+  "sprite.button.Purchasable": { "Path": "Sprites/BuyBtn"},
+  "sprite.button.Received": { "Path": "Sprites/UseBtn"},
+
+  "prefab.shopItem.pink": { "Path": "Prefabs/ShopItems/ShopItem.pink"},
+  "prefab.shopItem.green": { "Path": "Prefabs/ShopItems/ShopItem.green"},
+  "prefab.shopItem.yellow": { "Path": "Prefabs/ShopItems/ShopItem.yellow"},
+  "prefab.shopItem.red": { "Path": "Prefabs/ShopItems/ShopItem.red"},
+  "prefab.shopItem.blue": { "Path": "Prefabs/ShopItems/ShopItem.blue"},
+  "prefab.shopItem.mint": { "Path": "Prefabs/ShopItems/ShopItem.mint"},
+  
+  "wave.0": { "Path": "Waves/Wave.0"},
+  "wave.1": { "Path": "Waves/Wave.1"},
+  "wave.2": { "Path": "Waves/Wave.2"},
+  "wave.3": { "Path": "Waves/Wave.3"},
+  "wave.4": { "Path": "Waves/Wave.4"},
+
+  "audio.lobby": { "Path": "Audio/Lobby"},
+  "audio.bubble": { "Path": "Audio/Bubble"},
+  "audio.fail": { "Path": "Audio/Fail"}
+}

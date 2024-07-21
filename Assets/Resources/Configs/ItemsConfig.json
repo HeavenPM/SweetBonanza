@@ -1,0 +1,43 @@
+[
+  {
+    "Identifier": "pink",
+    "Category": "Balls",
+    "Price": 0,
+    "Status": "InUse"
+  },
+
+  {
+    "Identifier": "green",
+    "Category": "Balls",
+    "Price": 50,
+    "Status": "Purchasable"
+  },
+
+  {
+    "Identifier": "yellow",
+    "Category": "Balls",
+    "Price": 50,
+    "Status": "Purchasable"
+  },
+
+  {
+    "Identifier": "red",
+    "Category": "Balls",
+    "Price": 50,
+    "Status": "Purchasable"
+  },
+
+  {
+    "Identifier": "blue",
+    "Category": "Balls",
+    "Price": 50,
+    "Status": "Purchasable"
+  },
+
+  {
+    "Identifier": "mint",
+    "Category": "Balls",
+    "Price": 50,
+    "Status": "Purchasable"
+  }
+]

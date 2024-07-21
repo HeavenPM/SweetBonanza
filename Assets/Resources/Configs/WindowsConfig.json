@@ -1,0 +1,10 @@
+{
+  "screen.lobby": { "Path": "Windows/LobbyScreen"},
+  "screen.game": { "Path": "Windows/GameScreen"},
+  
+  "popup.info": { "Path": "Windows/InfoPopup"},
+  "popup.settings": { "Path": "Windows/SettingsPopup"},
+  "popup.shop": { "Path": "Windows/ShopPopup"},
+  "popup.pause": { "Path": "Windows/PausePopup"},
+  "popup.fail": { "Path": "Windows/FailPopup"}
+}
